@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="months_to_pay">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="capital">
+        <item>5,000</item>
+        <item>8,000</item>
+        <item>10,000</item>
+        <item>15,000</item>
+        <item>20,000</item>
+        <item>25,000</item>
+        <item>30,000</item>
+    </string-array>
+
+    <string-array name="payment_type">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Biweekly</item>
+        <item>Monthly</item>
+    </string-array>
+</resources>
